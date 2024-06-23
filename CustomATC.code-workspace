@@ -2,9 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../../AppData/Local/ATSim2020/eATS"
 		}
 	],
 	"settings": {}
