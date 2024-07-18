@@ -2,4 +2,6 @@
 ;         SECTOR   FIX   FIX    CAT  MIT  COMMENTS
 ;         ------  ----- ----- -----  ---  --------
 *ARR_MIT    79    STEVY FAIIR     J   5  CVG
-*ARR_MIT    26    FAIIR JBIZZ     J  10  CVG 
+*ARR_MIT    26    FAIIR JBIZZ     J  10  CVG
+*ARR_MIT    84    SMTTH ARTUR     J  10  CVG
+*ARR_MIT    21    SMTTH ARTUR     J  10  CVG
