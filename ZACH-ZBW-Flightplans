@@ -1,0 +1,10 @@
+;   ZBW-FLIGHTPLANS.TXT   11 AUG 2024
+
+;                     2000 1112
+;                     3257 1470
+;                  S  |||| ||||
+;                  E  0001 1122
+;                  Q  2571 4703
+
+FPX ZBW BGR  SFB  01  0000 1000  0.5 1234567  AAY 0     A320 465 340 BGR..KAYCC..KYLOH..NELIE.Q75.SLOJO./.SFB
+FPX ZBW PBG  SFB  01  0000 1000  0.3 1234567  AAY 0     A320 464 360 PBG..PONCT..PWL..BIZEX.Q75.SLOJO./.SFB
